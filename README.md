@@ -5,7 +5,7 @@
 
 **Research-Driven AI Builder | Deep Learning • Computer Vision • Foundation Models**
 
-**Exploring the intersection of multimodal learning, representation learning, and real-world AI applications. Building research-driven solutions while continuously experimenting with emerging architectures and cutting-edge machine learning techniques. Fine-tuning LLMs.**
+**Exploring the intersection of multimodal learning, representation learning, and real-world AI applications. Building research-driven solutions while continuously experimenting with emerging architectures and cutting-edge machine learning techniques.**
 
 </td>
 
