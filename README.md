@@ -1,7 +1,7 @@
 <tr>
 <td width="70%" valign="top">
 
-# 👋 About Me
+# Hi there👋, I'm Manoj
 
 **Research-Driven AI Builder | Deep Learning • Computer Vision • Foundation Models**
 
