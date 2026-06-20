@@ -19,22 +19,12 @@
 
 # 💻 Tech Stack
 
-<h3 align="center"></h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,bash,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,bash,mysql,mongodb,tensorflow,pytorch,git,github" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
