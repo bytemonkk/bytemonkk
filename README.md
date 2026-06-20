@@ -19,8 +19,6 @@
 
 # 💻 Tech Stack
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,html,bash,mysql,mongodb,tensorflow,pytorch,git,github" />
