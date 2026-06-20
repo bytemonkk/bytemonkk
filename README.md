@@ -1,7 +1,8 @@
 <tr>
 <td width="70%" valign="top">
 
-# Hi there👋, I'm Manoj
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=1000&color=7C9CBF&center=true&vCenter=true&width=620&lines=Hey%2C+I%27m+Manoj+%F0%9F%91%8B;I+build+things+with+code+%26+LLMs" alt="Hey, I'm Manoj — I build things with code & LLMs " /> <br/>
+
 
 **Hi there! I'm an AI enthusiast who enjoys turning concepts into AI experiments. From deep learning and computer vision to LLMs, multimodal AI, and generative models, I enjoy exploring new ideas and building things that solve meaningful problems.**
 
