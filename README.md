@@ -3,9 +3,10 @@
 
 # Hi there👋, I'm Manoj
 
-**Research-Driven AI Builder | Deep Learning • Computer Vision • Foundation Models**
+Hi there! I'm an AI enthusiast who loves turning research papers into real-world projects. From deep learning and computer vision to LLMs, multimodal AI, and generative models, I enjoy exploring new ideas and building things that solve meaningful problems.
 
-**Exploring the intersection of multimodal learning, representation learning, and real-world AI applications. Building research-driven solutions while continuously experimenting with emerging architectures and cutting-edge machine learning techniques.**
+I'm constantly experimenting, learning, and pushing the limits of AI—one project, one model, and one late-night debugging session at a time. If it involves neural networks, foundation models, or innovative AI systems, you'll probably find me working on it.
+
 
 </td>
 
