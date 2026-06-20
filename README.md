@@ -27,16 +27,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bytemonkk&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -46,6 +36,16 @@
 ![](https://streak-stats.demolab.com/?user=bytemonkk&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bytemonkk&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bytemonkk&theme=github-dark&hide_border=true)
 
 </div>
 
