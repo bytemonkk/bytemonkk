@@ -53,6 +53,6 @@
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=bytemonkk&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=anadhyanth&style=flat-square)
 
 </div>
